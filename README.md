@@ -1,1 +1,25 @@
-# front2
+Description
+
+LexAI aide les avocats à générer automatiquement des fiches d'audit de baux grâce à l'IA. L'application analyse les contrats de bail et produit des rapports clairs et structurés.
+
+Fonctionnalités
+
+Génération automatique de fiches d'audit
+
+Analyse des clauses juridiques
+
+Extraction des informations clés
+
+Export en PDF et Word
+
+Technologies
+
+Framework : Next.js
+
+Installation
+
+git clone git@github.com:LexAI2025/front.git   
+cd front
+npm install
+npm run dev
+
