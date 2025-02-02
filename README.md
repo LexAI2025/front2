@@ -1,16 +1,20 @@
+KnowledgeManager AI
+
 Description
 
-LexAI aide les avocats à générer automatiquement des fiches d'audit de baux grâce à l'IA. L'application analyse les contrats de bail et produit des rapports clairs et structurés.
+KnowledgeManager AI est une application destinée aux knowledge managers. Elle permet de gérer efficacement une base de connaissances et de suivre les audits réalisés par les avocats.
 
 Fonctionnalités
 
-Génération automatique de fiches d'audit
+Gestion d'une base de connaissances centralisée
 
-Analyse des clauses juridiques
+Suivi des audits effectués par les avocats
 
-Extraction des informations clés
+Organisation et catégorisation des documents
 
-Export en PDF et Word
+Recherche avancée et récupération rapide des informations
+
+Gestion des ressources
 
 Technologies
 
@@ -18,8 +22,8 @@ Framework : Next.js
 
 Installation
 
-git clone git@github.com:LexAI2025/front.git   
-cd front
+git clone https://github.com/LexAI2025/front_knowledge_mgt.git
+cd knowledgemanager-ai
 npm install
 npm run dev
 
